@@ -1,0 +1,10 @@
+streamlit
+crewai
+groq
+litellm
+requests
+python-dotenv
+chromadb
+sentence-transformers
+bcrypt
+cryptography
